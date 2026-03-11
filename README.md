@@ -1,2 +1,2 @@
 # AI-Study-Planner-with-Adaptive-Automation-Skill-Tracker-Integration
-**AI Study Planner with Adaptive Automation Skill Tracker Integration** is an AI-based system that generates personalized study schedules based on subjects, deadlines, and learning progress. It tracks user skills, analyzes performance, and adapts future study plans to help students improve productivity, manage  and build consistent learning habits.
+AI Study Planner with Adaptive Automation Skill Tracker Integration is an AI-based system that generates personalized study schedules based on subjects, deadlines, and learning progress. It tracks user skills, analyzes performance, and adapts future study plans to help students improve productivity, manage  and build consistent learning habits.
